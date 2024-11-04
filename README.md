@@ -3,4 +3,4 @@
 <img align="right" width="150px" src="https://raw.githubusercontent.com/CodeMeditator/iBeats/master/files/heart.svg"/>
 
 Some tools I made:
-- 🛏️ [iSleep](https://github.com/CodeMeditator/iSleep) - Public sleep monitor
+- 🛏️ [iSleep](https://github.com/CodeMeditator/iSleep) - Public sleep monitor for IOS Shortcuts

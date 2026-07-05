@@ -1,17 +1,17 @@
 ## Hi, I'm Richard. 👋
 
-## Daily Check-in 🗓
-
-<p align="center">
-  <img alt="Daily Check-in 2026-07-05" src="./assets/checkin/latest.png?v=20260705" width="320" />
-</p>
-
 ## Overview
 
 <img align="right" width="150px" src="https://raw.githubusercontent.com/CodeMeditator/iBeats/master/files/heart.svg"/>
 
 Some tools I made:
 - 🛏️ [iSleep](https://github.com/CodeMeditator/iSleep) - Public sleep monitor for IOS Shortcuts
+
+## Daily Check-in 🗓
+
+<p align="center">
+  <img alt="Daily Check-in 2026-07-05" src="./assets/checkin/latest.png?v=20260705" width="320" />
+</p>
 
 <!-- Some Cards -->
 <p align="center">

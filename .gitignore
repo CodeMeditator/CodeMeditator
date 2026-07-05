@@ -1,2 +1,3 @@
 # Local-only docs with machine-specific paths (do not publish)
 docs/openclaw-checkin.local.md
+scripts/update-checkin.sh

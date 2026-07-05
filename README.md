@@ -1,10 +1,12 @@
 ## Hi, I'm Richard. 👋
 
-## 每日打卡 📅
+## Daily Check-in 🗓
 
 <p align="center">
-  <img alt="Daily Check-in 2026-07-05" src="./assets/checkin/latest.png?v=20260705" width="640" />
+  <img alt="Daily Check-in 2026-07-05" src="./assets/checkin/latest.png?v=20260705" width="320" />
 </p>
+
+## Overview
 
 <img align="right" width="150px" src="https://raw.githubusercontent.com/CodeMeditator/iBeats/master/files/heart.svg"/>
 

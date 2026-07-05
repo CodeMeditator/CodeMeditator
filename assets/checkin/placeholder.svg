@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200">
+  <rect width="640" height="200" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="638" height="198" rx="11" fill="none" stroke="#30363d" stroke-width="2"/>
+  <text x="320" y="88" fill="#8b949e" font-family="system-ui, sans-serif" font-size="28" text-anchor="middle">每日打卡</text>
+  <text x="320" y="128" fill="#484f58" font-family="system-ui, sans-serif" font-size="16" text-anchor="middle">等待今日更新 · Daily Check-in</text>
+</svg>

@@ -3,7 +3,7 @@
 ## 每日打卡 📅
 
 <p align="center">
-  <img alt="Daily Check-in" src="./assets/checkin/placeholder.svg" width="640" />
+  <img alt="Daily Check-in 2026-07-05" src="./assets/checkin/latest.png?v=20260705" width="640" />
 </p>
 
 <img align="right" width="150px" src="https://raw.githubusercontent.com/CodeMeditator/iBeats/master/files/heart.svg"/>
